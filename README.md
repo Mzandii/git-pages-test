@@ -26,5 +26,3 @@ This is a static website hosted on GitHub Pages with HTML, CSS, and JavaScript.
 3. Go to repository Settings → Pages
 4. Select "main" branch as source
 5. Your site will be published at: `https://[username].github.io/[repository-name]/`
-
-## File Structure
