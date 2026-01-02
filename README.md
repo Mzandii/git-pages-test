@@ -1,1 +1,1 @@
-# A GITPAGES Test
+# This is a test for my static page
